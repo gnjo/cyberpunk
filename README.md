@@ -17,7 +17,7 @@ font-family:cyberpunk,monospace;
 }
 @font-face {
  font-family: cyberpunk;
- src: url("https://gnjo.github.io/cyberpunk/dqfc2.ttf?v=2") format("truetype");
+ src: url("https://gnjo.github.io/cyberpunk/ShareTechMono.ttf") format("truetype");
  font-weight: normal;
  font-style: monospace;
  unicode-range:U+0000-FB02;/* U+2019-FFE5;*//*over write latin*/
