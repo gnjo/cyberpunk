@@ -23,3 +23,6 @@ font-family:cyberpunk,monospace;
  unicode-range:U+0000-FB02;/* U+2019-FFE5;*//*over write latin*/
 }
 ```
+```
+src: url("https://gnjo.github.io/cyberpunk/cpmono.otf") format("opentype");
+```
